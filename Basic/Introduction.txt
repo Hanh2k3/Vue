@@ -1,0 +1,7 @@
+- Là 1 single page app
+- 1 cách thức xây dựng khi truy cập browser 
+- Vue theo dõi các componets để thay đổi nội dụng 
+* Tổng kết 
+- sử dụng CDN
+- create for project 
+- use template và event 
